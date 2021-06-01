@@ -16,7 +16,11 @@ int main()
 * 4.Praca jest w pe³ni samodzielna, wzorowa³em siê na przyk³adach analizowanych na
 * zajêciach z Pana strony internetowej. Natomiast informacje dotycz¹ce pojedynczych
 * funkcji szuka³em na MSDN. Stara³em siê wszystko zrobiæ porz¹dnie.
-* 5.mój stos jest oparty na ³¹czeniu elementów znacznikami a nie na tablicy, tak jak
+* 5.Mój stos jest oparty na ³¹czeniu elementów znacznikami a nie na tablicy, tak jak
 * to by³o wskazane w poleceniu, pozwolê sobiê skomentowaæ, ¿e taka implementacja
 * by³a o wiele trudniejsza od tablicowej.
+* 6.Czasami gdy wprowadza³em zmiany i rekompilowalem projekt odczyt danych powodowal
+* wyst¹pienie wyjatku, jednak nie potrafie odtworzyc takiej sytuacji, stara³em siê
+* przetestowaæ funkcje zapisu i odczytu jak najlepiej, ale nie zdiagnozowa³em w
+* pe³ni tego problemu - mam nadzieje ¿e nie wyst¹pi w trakcie oceny mojego zadania :)
 ========================================================================================*/
